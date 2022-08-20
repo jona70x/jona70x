@@ -1,4 +1,4 @@
-Welcome to my Github. I am glad that you are here 
+Welcome to my projects. I am glad that you are here 
 - 
 - 🙋🏻‍♂️ My name is Jonathan Carpio. 
 - 🌱 Full Stack Techdegree graduated from https://teamtreehouse.com/
