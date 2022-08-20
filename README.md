@@ -1,9 +1,8 @@
 Welcome to my Github. I am glad that you are here 
 - 
 - 🙋🏻‍♂️ My name is Jonathan Carpio. 
-- 🌱 I’m currently learning JavaScript, HTML, and CSS. 
-- 🤓 My goal is to become a Full Stack developer
-- 🥳 I am currently learning by myself, and I will be posting all my projects here! I hope you enjoy them.
+- 🌱 Full Stack Techdegree graduated from https://teamtreehouse.com/
+- 💻 My Stack: HTML, CSS, JavaScript, React, Node, Express, SQL.
 - 📫 Please feel free to reach me. Any advice, comments, and opportunities are always welcome. My twitter:@jona70xc Email: jcarpio95@gmail.com
 
 
