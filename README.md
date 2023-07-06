@@ -2,7 +2,7 @@ Welcome to my projects. I am glad that you are here
 - 
 - 🙋🏻‍♂️ My name is Jonathan Carpio. 
 - 🌱 Full Stack Student
-- 💻 My Stack: HTML, CSS, JavaScript, React, Node, Express, SQL.
+- 💻 My Stack: HTML, CSS, JavaScript, TypeScript, Bootstrap, React, Node, Express, and SQL.
 - 📫 Please feel free to reach me. Any advice, comments, and opportunities are always welcome. Email: jcarpio95@gmail.com
 
 
