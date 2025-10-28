@@ -26,11 +26,12 @@ I’m especially interested in software engineering, project management, and pro
 
 ## Tech I Use
 `TypeScript` · `Next.js` · `React` · `Node.js` · `Express` · `MongoDB` · `REST` · `Git`  
-`Power Apps` · `Power Automate` · `SharePoint` · `Visio`
+`Power Apps` · `Power Automate` · `SharePoint` · `Visio` · `Java`  · `Python`  · `VSCode`
 
 ## How I Work
 - I like projects where I can talk to users, collaborate with peers, sketch the solution, and then ship it.  
 - Comfortable jumping between front-end components, APIs, and workflow automation.
+- A team player who loves to work with others to achieve challeginng goals.
 
 ## Get in Touch
 - **Email:** jcarpio95@gmail.com
