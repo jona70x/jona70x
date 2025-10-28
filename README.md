@@ -9,7 +9,7 @@ I’m especially interested in software engineering, project management, and pro
 ## Experience
 
 ### Student Design Trainee — Information Technology & Telecommunications (ITT)  
-**San Francisco International Airport (SFO)** • *Jul 2025 – Present* • San Francisco, CA (On-site)  
+**San Francisco International Airport (SFO)** • *Jul 2025 – Sep 2025* • San Francisco, CA (On-site)  
 - Contributed to the Chief Digital Transformation Office (CDTO), Strategic Initiatives team.  
 - Collaborated in discovery sessions with stakeholders across airport departments to map processes and pain points.  
 - Analyzed systems and workflows to identify opportunities for digital improvement aligned with SFO’s tech strategy.  
