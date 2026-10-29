@@ -2,6 +2,10 @@
 
 I’m a junior at **San Jose State University** who loves building full-stack apps with **TypeScript**, **Next.js**, and the **MERN** stack. I like solving problems and tackiling challenges with determination -- I believe that we can learn something new every day!
 
+# Check my portfolio: 
+You can find my most up-to-date information here: https://jonathancarp.io 
+😏 Luckily, I got to reserve my .io domain (goes perfectly with my last name). 
+
 ## What I’m Looking For
 **Summer 2026 — Software Engineering Internship**  
 I’m especially interested in software engineering, project management, and product engineering roles where I can collaborate with large teams and ship features end-to-end.
